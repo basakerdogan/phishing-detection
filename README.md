@@ -9,4 +9,4 @@ This tool is used to analyze incoming emails and detect potential phishing attem
 ## Usage
 
 1. Compile the project using the `go build` command in the project directory.
-2. './phishing-detection-tool path/to/your/email.eml'
+2. ` ./phishing-detection-tool path/to/your/email.eml `
